@@ -1,5 +1,5 @@
 ### Hi there 👋
-AI & ML Enthusiast|Data science|Final year student 😃
+ML & Data science Enthusiast|Final year student 😃
 
 
 
