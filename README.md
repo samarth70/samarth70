@@ -1,4 +1,7 @@
 ### Hi there 👋
+AI & ML Enthusiast|Data science|Final year student 😃
+
+
 
 <!--
 **samarth70/samarth70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
