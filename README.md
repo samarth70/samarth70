@@ -1,4 +1,4 @@
-### ML & Data science Enthusiast|Final year student
+### ML & Data Science Enthusiast|Final Year Student
 
 
 
