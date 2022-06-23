@@ -2,7 +2,7 @@
 
 
 <a href="mailto:samarthagrawal526@gmail.com">
-  <img align="left" alt=" 💬" width="22px" src="/assets/envelope.svg" />
+  <img align="left" alt=" 💬" width="22px"/>
 </a>  
   <a href="https://www.linkedin.com/in/-samarth-agarwal">
   <img align="left" alt="linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
