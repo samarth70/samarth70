@@ -3,7 +3,7 @@
 
 - 📫 You can reach out to me on [mail](samagarwal082@gmail.com)
 
-- 🌱 I’m currently learning **MLOPs**
+- 🌱 I’m currently learning **MLOP**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/samarth70?tab=repositories)
 
