@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML projects & salesforce<br>👯 I’m looking to collaborate on data science hackathons<br>🌱 I’m currently learning MLOPs<br>
+🔭 I’m currently working on ML projects & salesforce<br>👯 I’m looking to collaborate on data science hackathons/projects <br>🌱 I’m currently learning MLOPs<br>
 
 
 ## 🌐 Socials:
