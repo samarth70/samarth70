@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as LLM Prompt Engineer Intern<be> I have worked on Salesforce & ML projects<br>👯 I’m looking to collaborate on data science hackathons/projects <br>🌱 I’m currently learning MLOPs<br>
+🔭 I am currently working as LLM Prompt Engineer Intern <br> I have worked on Salesforce & ML projects<br>👯 I’m looking to collaborate on data science hackathons/projects <br>🌱 I’m currently learning MLOPs<br>
 
 
 ## 🌐 Socials:
