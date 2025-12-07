@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying Masters in data science at Stony Brook Uni, NY<br>🔭 I have worked on Salesforce & ML projects<br>👯 I’m looking to collaborate on data science hackathons/projects <br>🌱 I’m currently learning MLOPs<br>
+🔭 I am currently studying Masters in Data Science at Stony Brook Uni, NY<br>🔭 I have worked on Salesforce & ML projects<br>👯 I’m looking to collaborate on data science hackathons/projects <br>🌱 I’m currently learning MLOPs<br>
 
 
 ## 🌐 Socials:
