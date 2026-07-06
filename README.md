@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/-samarth-agarwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://samarth70.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=aboutdotme&logoColor=white"></a>
+  <a href="https://huggingface.co/Sa-m"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat&logoColor=black"></a>
   <a href="mailto:samagarwal082@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -29,6 +30,10 @@ I turn LLMs into **reliable, cheap, production systems** — RAG pipelines, agen
 | **[PrepGenie](https://prepgenie.pages.dev/)** | Edge-native AI interview coach + resume reviewer; recursive LLM failover, LLM-as-Judge scoring | Pyodide/WASM · Gemini→Groq→Mistral · Gradio |
 | **[AI Pentest Scanner](https://ai-pentest-scanner.sam747331.workers.dev/)** | Autonomous multi-agent security scanner — recon → vuln detection → auto-report | Multi-agent · Groq/Gemini · Nmap/Shodan · React/Flask |
 | **[Real-Time Stocks (Serverless)](https://github.com/samarth70/real-time-stocks-serverless)** | Global stock dashboard on the edge; pull-on-demand caching → 1 API call/min/symbol at scale | Cloudflare Workers · D1 · R2 · Vite |
+
+> 🤗 Also on **[Hugging Face](https://huggingface.co/Sa-m)** — 15+ live Spaces including
+> [Neural Style Transfer](https://huggingface.co/spaces/Sa-m/Neural-Style-Transfer-Image-Stylization) (**62 ❤️**),
+> plus PrepGenie, the AI Pentest API, and the ParamMem reasoning dashboard.
 
 ### 🛠️ Tech
 **AI/LLM:** PyTorch · TensorFlow · LangChain · RAG · LoRA · MCP · DeepEval · Agentic Workflows · LLM-as-Judge
