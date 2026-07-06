@@ -1,19 +1,42 @@
-# 💫 About Me:
-🔭 I am currently studying Masters in Data Science at Stony Brook Uni, NY<br>🔭 I have recently worked on Salesforce & ML projects<br>👯 I’m looking to collaborate on data science hackathons/projects <br>🌱 I’m currently learning MLOPs<br>
+<!--
+  This is a proposed replacement for your GitHub PROFILE README.
+  It lives in the special repo:  github.com/samarth70/samarth70  ->  README.md
+  Review/edit, then it becomes the top card on your GitHub profile.
+-->
 
+<h1 align="center">Hi, I'm Sam Agarwal 👋</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-samarth-agarwal) 
+<p align="center">
+  <b>AI Software Engineer</b> — production LLM systems, multi-agent architectures & edge-native AI<br>
+  MS Data Science @ Stony Brook University · ex-Genpact (2 yrs) · ex-ARMA AI Labs
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/-samarth-agarwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://samarth70.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=aboutdotme&logoColor=white"></a>
+  <a href="mailto:samagarwal082@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔭 What I build
+I turn LLMs into **reliable, cheap, production systems** — RAG pipelines, agentic workflows, LoRA fine-tuning, and evaluation harnesses that make model behavior measurable. Recently focused on **edge-native AI** (Cloudflare Workers, Pyodide/WASM) that runs fast and costs near-zero.
 
+### 🚀 Featured projects
+| Project | What it does | Stack |
+|---|---|---|
+| **[ParamMem](https://github.com/samarth70/ParamMem)** | Parametric reflective memory for LLM agents — cut agent reflection latency **94%** (45s→2.8s), +11.4% HumanEval | LoRA · Llama-3 · Groq · ChromaDB · FastAPI · React |
+| **[PrepGenie](https://prepgenie.pages.dev/)** | Edge-native AI interview coach + resume reviewer; recursive LLM failover, LLM-as-Judge scoring | Pyodide/WASM · Gemini→Groq→Mistral · Gradio |
+| **[AI Pentest Scanner](https://ai-pentest-scanner.sam747331.workers.dev/)** | Autonomous multi-agent security scanner — recon → vuln detection → auto-report | Multi-agent · Groq/Gemini · Nmap/Shodan · React/Flask |
+| **[Real-Time Stocks (Serverless)](https://github.com/samarth70/real-time-stocks-serverless)** | Global stock dashboard on the edge; pull-on-demand caching → 1 API call/min/symbol at scale | Cloudflare Workers · D1 · R2 · Vite |
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/samagarwals) 
+### 🛠️ Tech
+**AI/LLM:** PyTorch · TensorFlow · LangChain · RAG · LoRA · MCP · DeepEval · Agentic Workflows · LLM-as-Judge
+**Backend:** Python · Java/Spring Boot · C++ · FastAPI · Flask · REST · SQL
+**Data & Infra:** ChromaDB · Pinecone · Pandas · Spark · AWS · Cloudflare · Docker · Git
 
+### 💼 Experience
+- **Generative AI Engineer Intern** — ARMA AI Labs (2025): built a DeepEval-based eval framework (7 metrics) + a production model-routing pipeline.
+- **Senior Associate Software Developer** — Genpact (2022–2024): shipped Salesforce/Spring Boot systems for GE & Huntsman; cut manual data entry 60%.
 
+<p align="center"><i>Open to AI/ML Engineer roles · always happy to collaborate on LLM & agent projects.</i></p>
