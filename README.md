@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>AI Software Engineer</b> — production LLM systems, multi-agent architectures & edge-native AI<br>
-  MS Data Science @ Stony Brook University · ex-Genpact (2.5+ yrs) · ex-ARMA AI Labs,CA,US
+  MS Data Science @ Stony Brook University · ex-Genpact (2.5+ yrs) · ex-ARMA AI Labs, CA, US
 </p>
 
 <p align="center">
