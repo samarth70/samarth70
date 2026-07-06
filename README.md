@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>AI Software Engineer</b> — production LLM systems, multi-agent architectures & edge-native AI<br>
-  MS Data Science @ Stony Brook University · ex-Genpact (2.5+ yrs) · ex-ARMA AI Labs,CA,USA
+  MS Data Science @ Stony Brook University · ex-Genpact (2 yrs) · ex-ARMA AI Labs
 </p>
 
 <p align="center">
@@ -35,6 +35,11 @@ I turn LLMs into **reliable, cheap, production systems** — RAG pipelines, agen
 > [Neural Style Transfer](https://huggingface.co/spaces/Sa-m/Neural-Style-Transfer-Image-Stylization) (**62 ❤️**),
 > plus PrepGenie, the AI Pentest API, and the ParamMem reasoning dashboard.
 
+### 🌍 Open Source Contributions
+- **[DeepEval](https://github.com/confident-ai/deepeval)** (16.7k⭐, LLM-evaluation framework) — fixed a
+  `TaskCompletionMetric` template-render crash · [PR #2850](https://github.com/confident-ai/deepeval/pull/2850)
+<!-- Add new merged/opened PRs here as you land them. -->
+
 ### 🛠️ Tech
 **AI/LLM:** PyTorch · TensorFlow · LangChain · RAG · LoRA · MCP · DeepEval · Agentic Workflows · LLM-as-Judge
 **Backend:** Python · Java/Spring Boot · C++ · FastAPI · Flask · REST · SQL
@@ -42,6 +47,6 @@ I turn LLMs into **reliable, cheap, production systems** — RAG pipelines, agen
 
 ### 💼 Experience
 - **Generative AI Engineer Intern** — ARMA AI Labs (2025): built a DeepEval-based eval framework (7 metrics) + a production model-routing pipeline.
-- **Senior Associate Software Developer** — Genpact (2022–2024): shipped Salesforce/Spring Boot systems for Forbes 500 clients; cut manual data entry 60%.
+- **Senior Associate Software Developer** — Genpact (2022–2024): shipped Salesforce/Spring Boot systems for GE & Huntsman; cut manual data entry 60%.
 
 <p align="center"><i>Open to AI/ML Engineer roles · always happy to collaborate on LLM & agent projects.</i></p>
