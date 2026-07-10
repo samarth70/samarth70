@@ -35,10 +35,7 @@ I turn LLMs into **reliable, cheap, production systems** : RAG pipelines, agenti
 > [Neural Style Transfer](https://huggingface.co/spaces/Sa-m/Neural-Style-Transfer-Image-Stylization) (**62 ❤️**),
 > plus PrepGenie, the AI Pentest API, and the ParamMem reasoning dashboard.
 
-### 🌍 Open Source Contributions
-- **[DeepEval](https://github.com/confident-ai/deepeval)** (16.7k⭐, LLM-evaluation framework) — fixed a
-  `TaskCompletionMetric` template-render crash · [PR #2850](https://github.com/confident-ai/deepeval/pull/2850)
-<!-- Add new merged/opened PRs here as you land them. -->
+
 
 ### 🛠️ Tech
 **AI/LLM:** PyTorch · TensorFlow · LangChain · RAG · LoRA · MCP · DeepEval · Agentic Workflows · LLM-as-Judge
