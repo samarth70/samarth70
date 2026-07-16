@@ -1,9 +1,3 @@
-<!--
-  This is a proposed replacement for your GitHub PROFILE README.
-  It lives in the special repo:  github.com/samarth70/samarth70  ->  README.md
-  Review/edit, then it becomes the top card on your GitHub profile.
--->
-
 <h1 align="center">Hi, I'm Sam Agarwal 👋</h1>
 
 <p align="center">
@@ -36,6 +30,9 @@ I turn LLMs into **reliable, cheap, production systems** : RAG pipelines, agenti
 > plus PrepGenie, the AI Pentest API, and the ParamMem reasoning dashboard.
 
 
+
+### 🌱 Open source
+I contribute fixes to the backend and AI tooling I use day to day — a few of the most significant ones in [Supabase](https://github.com/supabase) ([auth](https://github.com/supabase/auth) & [storage](https://github.com/supabase/storage)), plus ongoing work across agent-evaluation and MCP projects.
 
 ### 🛠️ Tech
 **AI/LLM:** PyTorch · TensorFlow · LangChain · RAG · LoRA · MCP · DeepEval · Agentic Workflows · LLM-as-Judge
