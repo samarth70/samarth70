@@ -32,7 +32,7 @@ I turn LLMs into **reliable, cheap, production systems** : RAG pipelines, agenti
 
 
 ### 🌱 Open source
-I contribute fixes to the backend and AI tooling I use day to day — a few of the most significant ones in [Supabase](https://github.com/supabase) ([auth](https://github.com/supabase/auth) & [storage](https://github.com/supabase/storage)), plus ongoing work across agent-evaluation and MCP projects.
+I contribute fixes to the backend and AI tooling I use day to day. A few of the most significant ones are in [Supabase](https://github.com/supabase) ([auth](https://github.com/supabase/auth) & [storage](https://github.com/supabase/storage)), [Cloudflare](https://github.com/cloudflare) ([workers-sdk](https://github.com/cloudflare/workers-sdk)) and [Zendesk](https://github.com/zendesk) ([maxwell](https://github.com/zendesk/maxwell)), plus ongoing work across agent-evaluation and MCP projects.
 
 ### 🛠️ Tech
 **AI/LLM:** PyTorch · TensorFlow · LangChain · RAG · LoRA · MCP · DeepEval · Agentic Workflows · LLM-as-Judge
